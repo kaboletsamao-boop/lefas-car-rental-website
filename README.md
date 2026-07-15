@@ -42,3 +42,58 @@ This website was built to give the business a professional online presence, maki
 ---
 
 ## 📂 Project Structure
+lefas-rental/
+├── index.html # Main website file
+├── images/ # Optional: store images here if added
+└── README.md # Project documentation
+
+---
+
+## 🚀 Deployment
+
+This website is designed to be easily deployable on free hosting platforms:
+
+### Option 1: Render.com
+1. Push this repository to GitHub.
+2. Connect the repository to **Render.com**.
+3. Select **"Static Site"** and deploy.
+
+### Option 2: Netlify
+1. Drag and drop the entire `lefas-rental` folder into **Netlify**.
+2. Your site will be live instantly.
+
+---
+
+## 📞 Contact Information
+
+| Location | Phone | WhatsApp |
+|----------|-------|----------|
+| Gaborone | 78367781 | – |
+| Palapye | 74137124 / 71430061 | 78096040 |
+
+---
+
+## 👨‍💻 Developer
+
+This website was built by **Kabo Letsamao**, founder of TiroStamp — a Top 10 Finalist for the Startup World Cup Botswana 2026.
+
+- 📧 Email: kabletsamao@gmail.com
+- 📞 Phone: 73086407 / 76661039
+
+---
+
+## 📸 Screenshots
+
+*(Add screenshots of the website here after deployment)*
+
+---
+
+## 🏷️ Tags
+
+`car-rental`, `botswana`, `palapye`, `gaborone`, `party-hire`, `quad-bikes`, `jumping-castle`, `html`, `css`, `javascript`, `responsive-design`, `website`
+
+---
+
+## 📄 License
+
+This project is for client use. All rights reserved.
